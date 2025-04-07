@@ -6,13 +6,13 @@ Its not great but i have seen worse
 Also some pics
 ![Afterburner]( https://github.com/UwUyourmom/AfterBurner/blob/main/pics/untitled-f000051.png)
 
-I have used the following Materials: \
-\
-\
-\
-\
-\
-\
+I have used the following Materials: 
+|          | Steeltube | Acrylictube |  
+|----------|----------|----------|
+| Radius    | Data 1   | Data 2   |
+| Length    | Data 3   | Data 4   |
+| thickness    | Data 5   | Data 6   |
+
 The Stl files for the pipeclamps etc are all in the [Stl folder](https://github.com/UwUyourmom/AfterBurner/tree/main/STL)
 
 
