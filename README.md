@@ -9,9 +9,10 @@ Also some pics
 I have used the following Materials: 
 |          | Steeltube | Acrylictube |  
 |----------|----------|----------|
-| Radius    | Data 1   | Data 2   |
-| Length    | Data 3   | Data 4   |
-| thickness    | Data 5   | Data 6   |
+| Outer Diameter   | 6cm  | 6.5cm |
+| Length    | 16cm  | 29cm  |
+| thickness    |  2.75mm  | 3.6mm  |
+
 
 The Stl files for the pipeclamps etc are all in the [Stl folder](https://github.com/UwUyourmom/AfterBurner/tree/main/STL)
 
