@@ -17,7 +17,7 @@ I have used the following Materials:
 The Stl files for the pipeclamps etc are all in the [Stl folder](https://github.com/UwUyourmom/AfterBurner/tree/main/STL) \
 The PCB files are there but since i have <mark>NOT</mark> tested them yet i wont link it\
 But Renders of the PCB fine trust:\
-![PCB]( https://github.com/UwUyourmom/AfterBurner/blob/main/pics/untitled.png)
+![PCB]( https://github.com/UwUyourmom/AfterBurner/blob/main/pics/Untitled.png)
 
 
 
